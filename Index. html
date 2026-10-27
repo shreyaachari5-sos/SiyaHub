@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>SiyaHub-online store</title>
+</head>
+<frameset rows="159px,*" frameborder="1">
+    <frame src="header4.html" name="header">
+    <frame src="home4.html" name="content">
+</frameset>
+</html>
